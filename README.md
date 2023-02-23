@@ -20,7 +20,6 @@ This workshop provides a half-day workshop on Vault ADP and Encryption-as-a-Serv
 
 
 ### TODO
-* [vault-encryption-as-a-service](https://play.instruqt.com/hashicorp/tracks/vault-encryption-as-a-service)
 * [vault-advanced-data-protection-with-transform](https://play.instruqt.com/hashicorp/tracks/vault-advanced-data-protection-with-transform)
 * [vault-advanced-data-protection-with-tokenization](https://play.instruqt.com/hashicorp/tracks/vault-advanced-data-protection-with-tokenization)
 * [vault-key-management-secret-engine](https://play.instruqt.com/hashicorp/tracks/vault-key-management-secret-engine)

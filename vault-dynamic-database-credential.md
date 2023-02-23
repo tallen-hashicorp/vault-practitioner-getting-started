@@ -345,7 +345,9 @@ vault write sys/leases/revoke lease_id="<lease_id>"
 replacing <lease_id> with the one returned with the generated credentials. You should see "Success! Data written to: sys/leases/revoke" returned.
 
 Try to login to the MySQL server with the revoked credentials:
+```bash
 mysql -u <username> -p
+```
 replacing <username> with the generated username and providing the generated password when prompted. You should see a mesage including "ERROR 1045 (28000): Access denied for user".
 
 Congratulations on finishing the Vault Dynamic Database Credentials track. We recommend that you explore the Vault Transit Engine track next.
