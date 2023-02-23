@@ -1,4 +1,4 @@
-# Cault Encryption As A service
+# Vault Encryption As A service
 * [vault-encryption-as-a-service](https://play.instruqt.com/hashicorp/tracks/vault-encryption-as-a-service)
 * [GitHub Repo](https://github.com/hashicorp/field-workshops-vault)
 
