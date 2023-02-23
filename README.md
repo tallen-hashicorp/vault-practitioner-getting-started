@@ -20,7 +20,6 @@ This workshop provides a half-day workshop on Vault ADP and Encryption-as-a-Serv
 
 
 ### TODO
-* [vault-dynamic-database-credential](https://play.instruqt.com/hashicorp/tracks/vault-dynamic-database-credentials)
 * [vault-encryption-as-a-service](https://play.instruqt.com/hashicorp/tracks/vault-encryption-as-a-service)
 * [vault-advanced-data-protection-with-transform](https://play.instruqt.com/hashicorp/tracks/vault-advanced-data-protection-with-transform)
 * [vault-advanced-data-protection-with-tokenization](https://play.instruqt.com/hashicorp/tracks/vault-advanced-data-protection-with-tokenization)
