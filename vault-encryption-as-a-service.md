@@ -27,6 +27,9 @@ vault write -f lob_a/workshop/transit/keys/customer-key/rotate
 
 # rewrap - Vault will decrypt the value using the appropriate key in the keyring and then encrypted the resulting plaintext with the newest key in the keyring
 vault write lob_a/workshop/transit/decrypt/customer-key ciphertext="TEXT"
+
+# Get Wrapping Key
+vault read lob_a/workshop/transit/wrapping_key
 ```
 
 ---
